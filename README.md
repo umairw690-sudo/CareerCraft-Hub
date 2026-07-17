@@ -1,2 +1,34 @@
-# CareerCraft-Hub
-Creater Craft-Hub is a professional full-stack web platform designed to help individuals build their careers and access modern digital services from a single platform. It combines career tools, AI-powered solutions, freelance services, and job opportunities with a secure backend and an advanced admin management system.
+# CareerCraft Hub
+
+CareerCraft Hub is a Professional Career Services Platform.
+
+## Services
+
+- Professional CV Creator
+- Europass CV
+- Canadian Resume
+- Cover Letter
+- Content Writing
+- AutoCAD Services
+- Computer Skills
+- Jobs Portal
+
+## Tech Stack
+
+Frontend:
+- React
+- HTML
+- CSS
+- JavaScript
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB
+
+Deployment:
+- GitHub
+- Vercel
+- Render
